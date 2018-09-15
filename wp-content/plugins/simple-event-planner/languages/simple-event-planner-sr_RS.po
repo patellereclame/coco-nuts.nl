@@ -1,0 +1,509 @@
+# Translation of Plugins - Simple Event Planner - Stable (latest release) in Serbian
+# This file is distributed under the same license as the Plugins - Simple Event Planner - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-17 15:24+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: sr_RS\n"
+"Project-Id-Version: Plugins - Simple Event Planner - Stable (latest "
+"release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: PressTigers <support@presstigers.com>\n"
+"Language-Team: \n"
+
+#: public/partials/simple-event-planner-template-functions.php:813
+msgid "hours"
+msgstr "часови"
+
+#: public/partials/simple-event-planner-template-functions.php:813
+msgid "hour"
+msgstr "час"
+
+#: public/partials/simple-event-planner-template-functions.php:812
+msgid "days"
+msgstr "дани"
+
+#: public/partials/simple-event-planner-template-functions.php:812
+msgid "day"
+msgstr "дан"
+
+#: public/partials/event-listing/content-no-events-found.php:21
+msgid "Go Back to Event Listing"
+msgstr "Врати се на листу догађаја"
+
+#: public/class-simple-event-planner-public.php:114
+msgid "S"
+msgstr "С"
+
+#: public/class-simple-event-planner-public.php:113
+msgid "M"
+msgstr "М"
+
+#: public/class-simple-event-planner-public.php:112
+msgid "H"
+msgstr "Ч"
+
+#: public/class-simple-event-planner-public.php:111
+msgid "D"
+msgstr "Д"
+
+#: public/class-simple-event-planner-public.php:110
+msgid "W"
+msgstr "Н"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:169
+msgid "Left"
+msgstr "Лево"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:166
+msgid "Right"
+msgstr "Десно"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:163
+msgid "Google Map"
+msgstr "Google мапа"
+
+#: public/partials/single-event/event-calendar.php:33
+msgid "Add to iCal"
+msgstr "Додај у iCal календар"
+
+#: public/partials/single-event/event-calendar.php:32
+msgid "Add to Google Calendar"
+msgstr "Додај у Google календар"
+
+#: admin/settings/class-simple-event-planner-settings-api-key.php:41
+#: admin/settings/class-simple-event-planner-settings-api-key.php:60
+#: admin/settings/class-simple-event-planner-settings-api-key.php:66
+msgid "GMap API Key"
+msgstr "GMap API кључ"
+
+#: admin/settings/class-simple-event-planner-color-options-settings.php:39
+#: admin/settings/class-simple-event-planner-color-options-settings.php:61
+msgid "Color Options"
+msgstr "Опције боја"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:202
+msgid "Date Format"
+msgstr "Облик датума"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:195
+msgid "Date Format Settings"
+msgstr "Подешавања облика датума"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:188
+msgid "12 Hours"
+msgstr "12 часова"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:185
+msgid "24 Hours"
+msgstr "24 часа"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:182
+msgid "Time Format"
+msgstr "Облик времена"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:175
+msgid "Time Format Settings"
+msgstr "Подешавања облика времена"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:156
+msgid "Hide"
+msgstr "Сакриј"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:153
+msgid "Show"
+msgstr "Прикажи"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:150
+msgid "Enable Image"
+msgstr "Омогући слику"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:143
+msgid "Grid"
+msgstr "Мрежа"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:140
+msgid "List"
+msgstr "Листа"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:137
+msgid "Archive Event View"
+msgstr "Преглед архиве догађаја"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:130
+msgid "Basic Template Settings"
+msgstr "Основна подешавања шаблона"
+
+#: admin/settings/class-simple-event-planner-template-settings.php:39
+#: admin/settings/class-simple-event-planner-template-settings.php:126
+msgid "Template"
+msgstr "Шаблон"
+
+#. Description of the plugin/theme
+msgid ""
+"A powerful & flexible plugin to create event listing and event calendar on "
+"your website in simple & elegant way."
+msgstr ""
+"Моћан и прилагодљив додатак за прављење листе догађаја и календара догађаја "
+"на вашем сајту на једноставан и елегантан начин."
+
+#: public/partials/single-event/event-details.php:24
+msgid "Details:"
+msgstr "Детаљи:"
+
+#: admin/settings/class-simple-event-planner-color-options-settings.php:94
+#: admin/settings/class-simple-event-planner-color-options-settings.php:98
+msgid "Content"
+msgstr "Садржај"
+
+#: admin/settings/class-simple-event-planner-color-options-settings.php:85
+#: admin/settings/class-simple-event-planner-color-options-settings.php:89
+msgid "Title"
+msgstr "Наслов"
+
+#: admin/settings/class-simple-event-planner-color-options-settings.php:76
+#: admin/settings/class-simple-event-planner-color-options-settings.php:80
+msgid "Secondary"
+msgstr "Секундарна"
+
+#: admin/settings/class-simple-event-planner-color-options-settings.php:67
+#: admin/settings/class-simple-event-planner-color-options-settings.php:71
+msgid "Primary"
+msgstr "Примарна"
+
+#: public/partials/single-event/event-details/venue.php:29
+#: public/partials/single-event/event-venue.php:31
+msgid "Venue:"
+msgstr "Место:"
+
+#: public/partials/single-event/event-time.php:22
+#: public/partials/single-event/event-time.php:28
+msgid "Time:"
+msgstr "Време:"
+
+#: public/partials/single-event/event-details.php:67
+msgid "Schedule"
+msgstr "Временски план"
+
+#: public/partials/single-event/event-details/segments.php:22
+msgid "Segments:"
+msgstr "Сегменти:"
+
+#: public/partials/single-event/event-details/organiser.php:21
+msgid "Name"
+msgstr "Име"
+
+#: public/partials/single-event/event-details/contact.php:22
+msgid "Phone"
+msgstr "Телефон"
+
+#: public/partials/single-event/event-date.php:22
+#: public/partials/single-event/event-date.php:29
+msgid "Date:"
+msgstr "Датум:"
+
+#: public/partials/search/event-search.php:31
+msgid "Search by Event Title"
+msgstr "Претражи по називу догађаја"
+
+#: public/partials/event-listing/date.php:22
+#: public/partials/single-event/event-date.php:23
+#: public/partials/single-event/event-time.php:23
+msgid " - to - "
+msgstr " - до - "
+
+#: public/partials/event-listing/content-no-events-found.php:21
+msgid "No events found."
+msgstr "Догађаји нису пронађени."
+
+#: public/partials/archive-event-listing.php:33
+msgid "Event Archives"
+msgstr "Архиве догађаја"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:127
+msgctxt "Event permalink - resave permalinks after changing this"
+msgid "events"
+msgstr "догађаји"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:101
+msgid "Event Planner"
+msgstr "Планер догађаја"
+
+#: admin/settings/class-simple-event-planner-settings-api-key.php:71
+#: admin/settings/class-simple-event-planner-settings-api-key.php:75
+msgid "API Key"
+msgstr "API кључ"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:265
+msgid "Google Maps"
+msgstr "Google мапе"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:263
+msgid "Search Map"
+msgstr "Претражи мапу"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:257
+msgid "Don't Show Map"
+msgstr "Не приказуј мапу"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:249
+msgid "Enter Your Address"
+msgstr "Унесите вашу адресу"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:237
+msgid "Don't Show venue"
+msgstr "Не приказуј место догађаја"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:208
+msgid "Reset Options"
+msgstr "Ресетуј опције"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:205
+msgid "Add more"
+msgstr "Додај још"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:197
+msgid "Remove"
+msgstr "Уклони"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:175
+msgid "Add Segments"
+msgstr "Додај сегменте"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:172
+msgid "Don't show event segments"
+msgstr "Не приказуј сегменте догађаја"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:162
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:164
+msgid "A valid phone address is required."
+msgstr "Обавезно је унети исправан број телефона."
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:159
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:163
+msgid "Phone Number"
+msgstr "Број телефона"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:156
+msgid "Don't show contact"
+msgstr "Не приказуј контакт"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:148
+msgid "A valid email address is required."
+msgstr "Обавезно је унети исправну адресу е-поште."
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:147
+msgid "Organizer Email"
+msgstr "Адреса е-поште организатора"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:143
+#: public/partials/single-event/event-details/email.php:22
+msgid "Email"
+msgstr "Е-пошта"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:140
+msgid "Don't show organizer email"
+msgstr "Не приказуј адресу е-поште организатора"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:132
+msgid "Organizer of Event"
+msgstr "Организатор догађаја"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:128
+msgid "Organizer"
+msgstr "Организатор"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:125
+msgid "Don't show organizer name"
+msgstr "Не приказуј име организатора"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:115
+msgid "End Time"
+msgstr "Време завршетка"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:111
+msgid "Start Time"
+msgstr "Време почетка"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:103
+msgid "Don't show event time"
+msgstr "Не приказуј време догађаја"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:94
+msgid "End Date"
+msgstr "Датум завршетка"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:230
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:90
+msgid "Start Date"
+msgstr "Датум почетка"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:85
+msgid "Event Date"
+msgstr "Датум догађаја"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:82
+msgid "Don't show event date"
+msgstr "Не приказуј датум догађаја"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:67
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:215
+msgid "Venue Address & Map"
+msgstr "Адреса догађаја и мапа"
+
+#: admin/class-simple-event-planner-admin-settings-init.php:157
+#: admin/class-simple-event-planner-admin-settings-init.php:174
+msgid "Save Changes"
+msgstr "Сачувај промене"
+
+#: admin/class-simple-event-planner-admin-settings-init.php:104
+msgid "Setting have been saved."
+msgstr "Подешавања су сачувана."
+
+#: admin/class-simple-event-planner-admin-settings-init.php:75
+msgid "Settings"
+msgstr "Подешавања"
+
+#: includes/class-simple-event-planner-meta-boxes-init.php:44
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:66
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:75
+msgid "Event Options"
+msgstr "Опције догађаја"
+
+#. Author of the plugin/theme
+msgid "PressTigers"
+msgstr "PressTigers"
+
+#. #-#-#-#-#  tmp-simple-event-planner.pot (Simple Event Planner 1.3.3)
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-simple-event-planner.pot (Simple Event Planner 1.3.3)
+#. Author URI of the plugin/theme
+msgid "http://www.presstigers.com"
+msgstr "http://www.presstigers.com"
+
+#. #-#-#-#-#  tmp-simple-event-planner.pot (Simple Event Planner 1.3.3)
+#. Plugin Name of the plugin/theme
+#: admin/class-simple-event-planner-admin-settings-init.php:109
+msgid "Simple Event Planner"
+msgstr "Једноставан планер догађаја"
+
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:106
+msgid "Event Time"
+msgstr "Време догађаја"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:229
+#: includes/meta-boxes/class-simple-event-planner-meta-box-event-options.php:244
+msgid "Address"
+msgstr "Адреса"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:227
+msgid "Author"
+msgstr "Аутор"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:176
+msgid "New %s Name"
+msgstr "Назив нове %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:175
+msgid "Add New %s"
+msgstr "Додај нову %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:174
+msgid "Update %s"
+msgstr "Ажурирај %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:172
+msgid "Parent %s:"
+msgstr "Родитељски %s:"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:153
+msgctxt "Event category slug - resave permalinks after changing this"
+msgid "event-category"
+msgstr "категорија догађаја"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:149
+#: public/partials/single-event/event-details/category.php:24
+msgid "Categories"
+msgstr "Категорије"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:148
+#: includes/class-simple-event-planner-post-type-event-listing.php:228
+#: public/partials/single-event/event-details/category.php:24
+msgid "Category"
+msgstr "Категорија"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:119
+msgid "This is where you can create and manage %s."
+msgstr "Овде можете направити и управљати %s."
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:113
+#: includes/class-simple-event-planner-post-type-event-listing.php:171
+msgid "Parent %s"
+msgstr "Родитељски %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:112
+msgid "No %s found in trash"
+msgstr "%s није пронађен у смећу"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:111
+msgid "No %s found"
+msgstr "%s није пронађен"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:110
+#: includes/class-simple-event-planner-post-type-event-listing.php:169
+msgid "Search %s"
+msgstr "Претражи %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:108
+#: includes/class-simple-event-planner-post-type-event-listing.php:109
+msgid "View %s"
+msgstr "Погледај %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:107
+msgid "New %s"
+msgstr "Нови %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:106
+#: includes/class-simple-event-planner-post-type-event-listing.php:173
+msgid "Edit %s"
+msgstr "Уреди %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:105
+msgid "Edit"
+msgstr "Уреди"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:104
+msgid "Add %s"
+msgstr "Додај %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:103
+msgid "Add New"
+msgstr "Додај нови"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:102
+#: includes/class-simple-event-planner-post-type-event-listing.php:170
+msgid "All %s"
+msgstr "Сви %s"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:90
+msgctxt "Event permalink - resave permalinks after changing this"
+msgid "event"
+msgstr "догађај"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:86
+msgctxt "Post type archive slug - resave permalinks after changing this"
+msgid "events"
+msgstr "догађаји"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:83
+msgid "Events"
+msgstr "Догађаји"
+
+#: includes/class-simple-event-planner-post-type-event-listing.php:82
+msgid "Event"
+msgstr "Догађај"

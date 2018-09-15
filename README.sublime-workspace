@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"twentyse",
+				"Twenty_Seventeen"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/teakejellema/Web/hoekstra-klussen.nl/wp-content/themes/hoekstra-klussen/js/bootstrap.min.js",
+		"/Users/teakejellema/Web/hoekstra-klussen.nl/wp-content/themes/hoekstra-klussen/css/bootstrap.min.css",
+		"/Users/teakejellema/Web/hoekstra-klussen.nl/wp-content/themes/function.php",
+		"/Users/teakejellema/Documents/hestia-clients-bar-section.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/simple-event-planner-public.css",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-single-event-listing.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/single-event-listing.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/event-start-date 2.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/event-date.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/event-start-date.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/event-time.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-event-listing-list-view.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-facebookevent-listing-list-view.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/start-wrapper.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/event-venue.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/event-title.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/archive-event-listing.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/index.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/class-simple-event-planner-meta-boxes-init.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/class-simple-event-planner.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/simple-event-planner.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/index 2.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/class-simple-event-planner-public.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/class-simple-event-planner-typography.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/the-events-calendar.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/header.php",
+		"/Users/teakejellema/Desktop/changes.css",
+		"/Users/teakejellema/Web/az-logistics.nl/resources/views/groups/transporter/deliveries/monitor.blade.php",
+		"/Users/teakejellema/Web/az-logistics.nl/app/Directors/Deliveries/OrderedDeliveryCreator.php",
+		"/Users/teakejellema/Web/az-logistics.nl/.env",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/style.css",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/hestia-clients-bar-section.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/site-info.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/wp-config.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/site-branding.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-single-job_listing.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-single-job_listing-company.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-job_listing.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/wp-job-manager.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-page.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-single.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/single.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/page.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/content-widget-job_listing.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/job-application.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/job-preview.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/wp-job-manager-template.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/pagination.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/job-submitted.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/hestia-contact-section.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/header-v7.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/header-v6.php",
+		"/Users/teakejellema/Documents/HGC/css/style.css",
+		"/Users/teakejellema/Documents/HGC/index.html",
+		"/Users/teakejellema/Documents/HGC HTML/index.html",
+		"/Users/teakejellema/Documents/HGC HTML/css/style.scss",
+		"/Users/teakejellema/Documents/HGC HTML/header.html",
+		"/Users/teakejellema/Documents/HGC HTML/css/style.min.css",
+		"/Users/teakejellema/Documents/HGC HTML/header.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/header 2.php",
+		"/Users/teakejellema/Documents/HGC HTML/css/style.css",
+		"/Users/teakejellema/Documents/HGC HTML/style.SCSS",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/functions.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/hestia-blog-section.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/footer.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/page-home.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/bootstrap.min.css",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/style 2.css",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/wp-config 2.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/tawkto.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/widget.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/index.html",
+		"/Users/teakejellema/Documents/website kniphus/style.css",
+		"/Users/teakejellema/Documents/website kniphus/index.html",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/job-pagination.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/job-filters.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/frontend.css",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/job-filter-job-types.php",
+		"/Users/teakejellema/Desktop/job-filters.php",
+		"/private/var/folders/1w/lxf2d6rd3l716v7wydv5tdvc0000gn/T/fz3temp-2/single-jetpack-portfolio.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

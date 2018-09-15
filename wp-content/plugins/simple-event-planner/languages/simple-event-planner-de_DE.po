@@ -1,0 +1,389 @@
+# Copyright (C) 2015 Simple Event Planner
+# This file is distributed under the same license as the Simple Event Planner package
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Event Planner 1.1.0\n"
+"POT-Creation-Date: 2016-10-13 01:42+0200\n"
+"PO-Revision-Date: 2016-10-13 01:54+0200\n"
+"Language-Team: PressTigers <support@presstigers.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: /wp-content/plugins/simple-event-planner\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:68
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:77
+#: admin/class-simple-event-planner-meta-boxes-init.php:54
+msgid "Event Options"
+msgstr "Veranstaltungsoptionen"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:69
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:238
+msgid "Venue Address & Map"
+msgstr "Veranstaltungsadresse & Karte"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:82
+msgid "Don't show event date"
+msgstr "Veranstaltungsdatum ausblenden"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:84
+msgid "Event Date"
+msgstr "Veranstaltungsdatum"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:89
+msgid "Start Date"
+msgstr "Start Datum"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:93
+msgid "End Date"
+msgstr "End Datum"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:100
+msgid "Don't show event time"
+msgstr "Uhrzeit ausblenden"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:103
+msgid "Event Time"
+msgstr "Veranstaltungs Uhrzeit"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:108
+msgid "Start Time"
+msgstr "Start Zeit"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:112
+msgid "End Time"
+msgstr "Ende"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:118
+msgid "Select Time Zone"
+msgstr "Zeitzone wählen"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:145
+msgid "Time Zone"
+msgstr "Zeit Zone (Wien UTC +1)"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:152
+msgid "Don't show organizer name"
+msgstr "Veranstalter ausblenden"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:155
+msgid "Organizer"
+msgstr "Veranstalter"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:159
+msgid "Organizer of Event"
+msgstr "Veranstalter"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:165
+msgid "Don't show organizer email"
+msgstr "Veranstalter Mail ausblenden"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:168
+#: templates/single-event/event-details.php:62
+msgid "Email"
+msgstr "Email"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:172
+msgid "Organizer Email"
+msgstr "Veranstalter Email"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:173
+msgid "A valid email address is required"
+msgstr "Eine gültige Email Adresse wird benötigt."
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:179
+msgid "Don't show contact"
+msgstr "Kontakt ausblenden"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:182
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:186
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:187
+msgid "A valid phone address is required."
+msgstr "Eine gültige Telefonnummer wird benötigt."
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:195
+msgid "Don't show event segments"
+msgstr "Veranstaltungs Segemte ausblenden"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:198
+msgid "Add Segments"
+msgstr "Segment hinzufügen"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:228
+msgid "Add more"
+msgstr "Mehr hinzufügen"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:231
+msgid "Reset Options"
+msgstr "Optionen zurücksetzen"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:220
+msgid "Remove"
+msgstr "Entfernen"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:259
+msgid "Don't Show venue"
+msgstr "Adresse ausblenden"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:264
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:212
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:269
+msgid "Enter Your Address"
+msgstr "Geben Sie Ihre Adresse ein"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:274
+msgid "Don't Show Map"
+msgstr "Karte ausblenden"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:280
+msgid "Search Map"
+msgstr "Such Karte"
+
+#: admin/partials/meta-boxes/class-simple-event-planner-meta-box-event-features.php:282
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: admin/class-simple-event-planner-admin-settings-init.php:104
+msgid "Setting have been saved."
+msgstr "Einstellungen wurden gespeichert Christoph."
+
+#: admin/class-simple-event-planner-admin-settings-init.php:155
+#: admin/class-simple-event-planner-admin-settings-init.php:170
+msgid "Save Changes"
+msgstr "Speiche Einstellungen"
+
+#: admin/class-simple-event-planner-admin-settings-init.php:75
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/settings/class-simple-event-planner-settings-api-key.php:40
+msgid "GMAP API Key Settings"
+msgstr "GMAP API Key Settings"
+
+#: admin/settings/class-simple-event-planner-settings-api-key.php:59
+msgid "API Key Settings"
+msgstr "API Key Settings"
+
+#: admin/settings/class-simple-event-planner-settings-api-key.php:65
+msgid "Google Map API Key"
+msgstr "Google Map API Key"
+
+#: admin/settings/class-simple-event-planner-settings-api-key.php:70
+#: admin/settings/class-simple-event-planner-settings-api-key.php:74
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/settings/class-simple-event-planner-settings-calendar-appearance.php:42
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:58
+msgid "Calendar Appearance Settings"
+msgstr "Kalender Design Einstellungen"
+
+#: admin/settings/class-simple-event-planner-settings-calendar-appearance.php:64
+msgid "Calendar Top Header"
+msgstr "Kalender Top Header"
+
+#: admin/settings/class-simple-event-planner-settings-calendar-appearance.php:73
+msgid "Calendar Subheader"
+msgstr "Kalender Subheader"
+
+#: admin/settings/class-simple-event-planner-settings-calendar-appearance.php:82
+msgid "Calendar Body"
+msgstr "Kalender Body"
+
+#: admin/settings/class-simple-event-planner-settings-calendar-appearance.php:91
+msgid "Event Heading"
+msgstr "Veranstaltungs Titel"
+
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:41
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:60
+msgid "Listing Appearance Settings"
+msgstr "Listen Design Einstellungen"
+
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:67
+msgid "Event Listing"
+msgstr "Veranstaltungs Liste"
+
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:71
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:75
+msgid "Event Title"
+msgstr "Veranstaltungs Titel"
+
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:80
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:84
+msgid "Event Excerpt"
+msgstr "Veranstaltungs Beschreibung"
+
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:89
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:93
+msgid "Event Background"
+msgstr "Veranstaltungs Hintergrund"
+
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:98
+#: admin/settings/class-simple-event-planner-settings-listing-appearance.php:102
+msgid "Event Date & Loaction"
+msgstr "Veranstaltungs Datum & Ort"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:81
+msgid "Event"
+msgstr "Veranstaltung"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:82
+msgid "Events"
+msgstr "Veranstaltungen"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:86
+msgid "Post type archive slug - resave permalinks after changing this"
+msgstr ""
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:90
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:127
+msgid "Event permalink - resave permalinks after changing this"
+msgstr ""
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:101
+msgid "Event Planner"
+msgstr "Veranstaltungs Planer"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:102
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:170
+msgid "All %s"
+msgstr "Alle %"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:103
+msgid "Add New"
+msgstr "Neu hinzufügen"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:104
+msgid "Add %s"
+msgstr "Hinzufügen"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:105
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:106
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:173
+msgid "Edit %s"
+msgstr "Bearbeiten %"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:107
+msgid "New %s"
+msgstr "Neu %"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:108
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:109
+msgid "View %s"
+msgstr "Zeige %"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:110
+msgid "Search %s"
+msgstr "Suche %"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:111
+msgid "No %s found"
+msgstr "Kein % gefunden"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:112
+msgid "No %s found in trash"
+msgstr "Kein % im Müll gefunden"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:113
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:171
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:172
+msgid "Parent %s"
+msgstr "Eltern %"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:153
+msgid "Event category slug - resave permalinks after changing this"
+msgstr ""
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:119
+msgid "This is where you can create and manage %s"
+msgstr "Hier kannst du % Erstellen und Bearbeiten."
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:159
+msgid "Update %s"
+msgstr "Update %"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:160
+msgid "Add New %s"
+msgstr "Neu hinzufügen %"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:161
+msgid "New %s Name"
+msgstr "Neuer % Name"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:210
+msgid "Author"
+msgstr "Autor"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:148
+#: templates/single-event/event-details.php:22
+msgid "Category"
+msgstr "Kategorie"
+
+#: templates/single-event/event-time.php:19
+#: templates/single-event/event-time.php:25
+msgid "Time"
+msgstr "Zeit"
+
+#: templates/single-event/event-time.php:20
+msgid " - to - "
+msgstr "- zu -"
+
+#: templates/event-listing/venue.php:21
+msgid "View on map"
+msgstr "Zeige auf der Karte"
+
+#: includes/postypes/class-simple-event-planner-post-type-event-listing.php:149
+#: templates/single-event/event-details.php:22
+msgid "Categories"
+msgstr "Kategorien"
+
+#: templates/single-event/event-details.php:27
+msgid "Organize"
+msgstr "Organisieren"
+
+#: templates/single-event/event-details/name.php:44
+msgid "Name"
+msgstr "Name"
+
+#: templates/single-event/event-details/contact.php:20
+msgid "Phone"
+msgstr "Telefon"
+
+#: templates/single-event/event-details/segments.php:21
+msgid "Segments:"
+msgstr "Segmente:"
+
+#: templates/single-event/event-schedule.php:29
+msgid "Schedule:"
+msgstr "Terminplan:"
+
+#: templates/single-event/event-date.php:19
+#: templates/single-event/event-date.php:25
+msgid "Date:"
+msgstr "Datum:"
+
+#: templates/single-event/event-venue.php:22
+msgid "Venue"
+msgstr "Adresse"
+
+#: templates/content-no-events-found.php:13
+msgid "No events found."
+msgstr "Keine Veranstaltungen gefunden."
+
+#: templates/search/event_search.php:27
+msgid "Search by Event Title"
+msgstr "Suche nach Veranstaltungs Namen"
