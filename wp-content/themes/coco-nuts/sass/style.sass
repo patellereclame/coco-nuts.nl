@@ -15,6 +15,8 @@ $bleu: #3399cc
 $text: #4d4d50
 $yellow: #FCD908
 $yellow-d: #f4ea14
+$bleu: #3399cc
+$border: #2880ad
 
 $text-reg: helvetica, sans-serif
 $titles: helvetica, Arial
@@ -68,7 +70,7 @@ h1.entry-title
   position: relative
   width: 100%
   min-width: 340px
-  max-width: 550px
+  max-width: 710px
   height: auto
 
 .image-layer
@@ -83,12 +85,13 @@ h1.entry-title
   box-shadow: -12px 13px 20px 0px rgba(0, 0, 0, 0.18)
 
 .top-less
-  top: -120px
+  top: -151px
   position: relative
   z-index: 997
 
 .navbar
   height: 70px
+
 
 .nav-link
     color: #fff !important
@@ -137,6 +140,14 @@ img.logo
 img.follow-us
   position: absolute
   right: 0
+
+img.title-img
+  width: 40%
+  height: auto
+
+img.title-img-home
+  width: 60%
+  height: auto
 
 .sub-menu
     z-index: 1006
@@ -188,3 +199,122 @@ ul.menu
     position: relative
     margin-top: -330px
     z-index: 98
+
+textarea#pirate-forms-contact-message
+  background: rgba(51, 153, 204, 0.34901960784313724)
+  border-bottom: 3px solid $border
+  color: #fff
+
+
+input#pirate-forms-contact-email,#pirate-forms-contact-name
+    background: rgba(51, 153, 204, 0.34901960784313724)
+    border-bottom: 3px solid $border
+    color: #fff
+    width: 100%
+    position: relative
+
+
+
+input#pirate-forms-contact-subject
+    background: rgba(51, 153, 204, 0.34901960784313724)
+    border-bottom: 3px solid $border
+    color: #fff
+    width: 100%
+    position: relative
+
+.pirate_forms_wrap
+    background: rgba(255, 255, 255, 0.66)
+    padding: 15px
+    border-radius: 2px
+    border-bottom: 3px solid #bdbdbd
+    top: 12px
+    position: relative
+img
+  vertical-align: middle
+
+img.sponsor
+  padding-bottom: 12px
+
+h3.team
+  padding-bottom: 40px
+  padding-top: 20px
+
+
+button#pirate-forms-contact-submit
+  background: $bleu
+  border-bottom: 2px solid $border
+  border-left: none
+  border-right: none
+  border-top: none
+
+.maps
+  padding-top: 12px
+
+
+
+@media screen and (max-width: 767px)
+  .collapse
+    position: relative
+    margin: 0 auto
+    padding: 0
+    right: 0px
+    top: 5px
+
+  ul.menu
+    position: relative
+    float: none
+
+  ul.menu
+    li
+      margin-left: 0
+      margin: auto
+      padding-bottom: 24px
+
+  .navbar-nav
+    position: relative
+    width: 100%
+
+  .navbar
+    position: relative
+
+  .overlay-palm
+    display: none
+
+  .overlay-palm-right
+    display: none
+
+  .navbar
+    height: auto
+
+  .overlay-palm-bottom-right
+    display: none
+
+  .navbar-brand
+    top: -50px
+    padding: 0
+    position: relative
+
+  img.follow-us
+    position: relative
+
+  .top-less
+    top: -81px
+    position: relative
+    z-index: 997
+
+  img.title-img
+    width: 100%
+    height: auto
+
+  .new_menu_class
+    width: 100%
+  ul.menu
+    a
+      padding-bottom: 24px
+
+  textarea#pirate-forms-contact-message
+    background: rgba(51, 153, 204, 0.34901960784313724)
+    border-bottom: 3px solid $border
+    color: #fff
+    min-width: 220px
+    width: 100%

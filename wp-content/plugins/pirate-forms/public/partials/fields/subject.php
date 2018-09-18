@@ -1,9 +1,9 @@
 <?php
 
 /**
- * Provide a public-facing view for the input phone field.
+ * Provide a public-facing view for the input text field.
  *
- * This file provides a public-facing view for the input phone field.
+ * This file provides a public-facing view for the input text field.
  *
  * @package    PirateForms
  * @subpackage PirateForms/public/partials
@@ -23,5 +23,5 @@ if ( is_null( $wrap_classes ) ) {
 
 <div class="<?php echo implode( ' ', apply_filters( "pirateform_wrap_classes_{$name}", $wrap_classes, $name, $args['type'] ) ); ?>">
 	<?php echo $label; ?>
-	<input type="tel" class="<?php echo apply_filters( "pirateform_field_classes_{$name}", 'form-control', $name, $args['type'] ); ?>" <?php echo $this->get_common( $args, array( 'value' ) ); ?> >
+	<input type="subject" class="<?php echo apply_filters( "pirateform_field_classes_{$name}", 'form-control', $name, $args['type'] ); ?>" <?php echo $this->get_common( $args, array( 'value' ) ); ?> >
 </div>

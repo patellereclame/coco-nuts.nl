@@ -332,7 +332,7 @@ class PirateForms_Public {
 					'placeholder'  => stripslashes( sanitize_text_field( $label ) ),
 					'required'     => $field === 'req' ? true : false,
 					'required_msg' => $pirate_forms_options['pirateformsopt_label_err_subject'],
-					'type'         => 'text',
+					'type'         => 'subject',
 					'id'           => 'pirate-forms-contact-subject',
 					'value'        => empty( $thank_you_message ) && isset( $_REQUEST['pirate-forms-contact-subject'] ) ? $_REQUEST['pirate-forms-contact-subject'] : '',
 					'wrap_class'   => implode( ' ', $wrap_classes ),

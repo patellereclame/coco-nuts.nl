@@ -13,7 +13,8 @@
 		<div class="overlay-palm-bottom-right">
 			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/palm1.png"/>
 		</div>
-		
+
+	</div>
 	</div><!-- .site-content -->
 
 

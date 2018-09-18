@@ -13,7 +13,7 @@
 <?php
 if ( is_null( $wrap_classes ) ) {
 	$wrap_classes = array(
-		'col-xs-12 form_field_wrap',
+		'col-md-12 form_field_wrap',
 		"contact_{$name}_wrap",
 		isset( $args['wrap_class'] ) ? $args['wrap_class'] : '',
 	);

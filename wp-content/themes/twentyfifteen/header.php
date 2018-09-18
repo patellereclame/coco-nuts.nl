@@ -63,8 +63,7 @@
 			<div class="site-branding">
 
 			</div>
-		</div>
-			</div><!-- .site-branding -->
+		</div><!-- .site-branding -->
 		</header><!-- .site-header -->
 
 <div class="logo-left">
