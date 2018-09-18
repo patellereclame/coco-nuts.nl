@@ -54,7 +54,7 @@
 
 
 
-    <img class="phone" src="<? echo get_stylesheet_directory_uri();?>/imgs/phone.png" width="40%" height="auto"/>
+    <img class="phone" src="<?php echo get_stylesheet_directory_uri();?>/imgs/phone.png" width="40%" height="auto"/>
 
 
 </div>
