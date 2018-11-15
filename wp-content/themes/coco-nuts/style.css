@@ -154,7 +154,7 @@ ul.menu {
   padding-top: 65px;
   z-index: 999; }
   ul.menu li {
-    display: -webkit-inline-block;
+    display: -webkit-inline-blox;
     text-decoration: none;
     margin-left: 5px; }
     ul.menu li a {
