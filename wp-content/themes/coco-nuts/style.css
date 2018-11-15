@@ -56,7 +56,8 @@ h1.entry-title {
   width: 100%;
   min-width: 340px;
   max-width: 710px;
-  height: auto; }
+  height: auto;
+  bottom: 60px; }
 
 .image-layer {
   margin-left: auto;
@@ -284,6 +285,11 @@ button#pirate-forms-contact-submit {
     top: -81px;
     position: relative;
     z-index: 997; }
+
+  img.logo {
+    width: 100px;
+    padding-bottom: 30px;
+    padding-top: 20px; }
 
   img.title-img {
     width: 100%;
