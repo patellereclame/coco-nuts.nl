@@ -65,7 +65,8 @@ h1.entry-title {
 
 .no-yellow {
   background: none;
-  border: none; }
+  border: none;
+  margin-bottom: -60px; }
 
 .shadow-on {
   box-shadow: -12px 13px 20px 0px rgba(0, 0, 0, 0.18); }
@@ -117,7 +118,9 @@ h1.entry-title {
   right: 0; }
 
 img.logo {
-  float: right; }
+  float: right;
+  position: relative;
+  bottom: 30px; }
 
 img.follow-us {
   position: absolute;
