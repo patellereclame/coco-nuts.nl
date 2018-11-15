@@ -266,6 +266,14 @@ button#pirate-forms-contact-submit {
     padding: 0;
     position: relative; }
 
+  .content {
+    padding: 12px;
+    font-family: helvetica, sans-serif;
+    color: #4d4d50;
+    font-weight: 500;
+    width: 100%;
+    margin: 0 auto; }
+
   img.follow-us {
     position: relative; }
 
