@@ -62,7 +62,10 @@ h1.entry-title {
 .image-layer {
   margin-left: auto;
   margin-right: auto;
-  z-index: 998; }
+  z-index: 998;
+  bottom: 160px;
+  position: relative;
+  margin-bottom: -310px; }
 
 .no-yellow {
   background: none;
