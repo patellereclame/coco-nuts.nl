@@ -2,6 +2,9 @@
 
 <?php get_header()?>
 
+
+
+<div id="content" class="site-content top-less">
   <div class="top-layer">
     <div class="container no-yellow">
       <div class="row">
@@ -12,8 +15,6 @@
       </div>
     </div>
   </div>
-
-<div id="content" class="site-content top-less">
  		<div class="container shadow-on">
  			<div class="row">
  				<div class="content">
