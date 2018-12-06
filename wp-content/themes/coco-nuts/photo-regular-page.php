@@ -2,32 +2,34 @@
 
 <?php get_header()?>
 
-  <div class="top-layer">
-    <div class="container no-yellow">
 
-      <div class="row">
-        <div class="image-layer">
-          <img class="col-md-12" src="<?php echo get_stylesheet_directory_uri(); ?>/imgs/logo.png"/>
-
-        </div>
-      </div>
-
-
-            <div class="row">
-
-            <div class="sub-menu">
-      <?php wp_nav_menu( array( 'theme_location' => 'another-menu', 'container_class' => 'new_menu_class' ) ); ?>
-      </div>
-        </div>
-
-    </div>
-  </div>
 
 
 
 
 <div id="content" class="site-content top-less">
  		<div class="container shadow-on">
+
+      <div class="top-layer">
+        <div class="container no-yellow">
+
+          <div class="row">
+            <div class="image-layer">
+              <img class="col-md-12" src="<?php echo get_stylesheet_directory_uri(); ?>/imgs/logo.png"/>
+
+            </div>
+          </div>
+
+
+                <div class="row">
+
+                <div class="sub-menu">
+          <?php wp_nav_menu( array( 'theme_location' => 'another-menu', 'container_class' => 'new_menu_class' ) ); ?>
+          </div>
+            </div>
+
+        </div>
+      </div>
 
 
 
