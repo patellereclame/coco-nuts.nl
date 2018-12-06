@@ -2,15 +2,10 @@
 
 <?php get_header()?>
 
-
-
-
-
-
 <div id="content" class="site-content top-less">
  		<div class="container shadow-on">
 
-      <div class="top-layer">
+    <div class="top-layer">
         <div class="container no-yellow">
 
           <div class="row">
