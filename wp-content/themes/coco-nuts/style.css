@@ -57,7 +57,7 @@ h1.entry-title {
   min-width: 340px;
   max-width: 710px;
   height: auto;
-  bottom: 60px; }
+  bottom: 8px; }
 
 .image-layer {
   margin-left: auto;
@@ -76,7 +76,7 @@ h1.entry-title {
   box-shadow: -12px 13px 20px 0px rgba(0, 0, 0, 0.18); }
 
 .top-less {
-  top: -151px;
+  top: 150px;
   position: relative;
   z-index: 997; }
 
